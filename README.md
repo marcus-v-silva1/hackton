@@ -53,3 +53,8 @@ Para iniciar a aplicação, execute o seguinte comando:
 - Interface do Usuário: O formulário na barra lateral permite que os usuários adicionem novos eventos e visualizem eventos existentes.
 - Mapa Interativo: O mapa mostra a localização dos eventos com a possibilidade de adicionar novos eventos ao clicar no mapa.
 - Chatbot: O chatbot responde a perguntas sobre eventos climáticos registrados com base nos dados fornecidos.
+
+### Imagens
+![image](https://github.com/user-attachments/assets/8f8a950e-9487-4585-be70-bed8d80e4af8)
+![image](https://github.com/user-attachments/assets/1ca7266d-6e9d-4952-b437-1de27dc7cb3b)
+
