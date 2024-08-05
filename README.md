@@ -41,6 +41,10 @@ Instale as dependências com:
 ```terminal
   pip install -r requirements.txt
 ```
+em seguida instale
+```terminal
+  pip install -U langchain-community
+```
 Certifique-se de criar um arquivo .env na raiz do projeto para carregar suas variáveis de ambiente. O conteúdo do arquivo pode incluir:
 ```python
   OPENAI_API_KEY=suachaveapi
